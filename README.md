@@ -1,9 +1,9 @@
 # Bayesian data analysis
 Selected examples of Bayesian inference using MCMC
 
-1. [01_bayesian_inference_metropolis_hasting.ipynb](Bayesian inference using Metropolis-Hasting sampler)
-2. [02_bayesian_negative_binomial_regression_from_scratch_in_python.ipynb](Bayseian negative binomial regression from scratch)
-3. [03_gibbs_sampling_for_linear_regression.ipynb](Bayesian linear regression using Gibbs sampler)
+1. [Bayesian inference using Metropolis-Hasting sampler](01_bayesian_inference_metropolis_hasting.ipynb)
+2. [Bayesian negative binomial regression from scratch](02_bayesian_negative_binomial_regression_from_scratch_in_python.ipynb)
+3. [Bayesian linear regression using Gibbs sampler](03_gibbs_sampling_for_linear_regression.ipynb)
 
 # Reference
 
