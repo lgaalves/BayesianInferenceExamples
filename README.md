@@ -1,5 +1,9 @@
-# Bayesian inference example
-Example of Bayesian inference using MCMC - Metropolis-Hasting algorithm.
+# Bayesian data analysis
+Selected examples of Bayesian inference using MCMC
+
+1. [01_bayesian_inference_metropolis_hasting.ipynb](Bayesian inference using Metropolis-Hasting sampler)
+2. [02_bayesian_negative_binomial_regression_from_scratch_in_python.ipynb](Bayseian negative binomial regression from scratch)
+3. [03_gibbs_sampling_for_linear_regression.ipynb](Bayesian linear regression using Gibbs sampler)
 
 # Reference
 
